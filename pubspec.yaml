@@ -1,7 +1,9 @@
 name: phone_number_formatter
 description: A lightweight Flutter package for formatting, parsing, and validating international phone numbers with support for 240+ countries and strict condition rules (like Bangladesh 11-digit format).
 version: 1.0.0
-homepage: https://github.com/example/phone_number_formatter
+homepage: https://github.com/AbMamun12/phone_number_formatter
+repository: https://github.com/AbMamun12/phone_number_formatter
+issue_tracker: https://github.com/AbMamun12/phone_number_formatter/issues
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
