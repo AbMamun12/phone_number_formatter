@@ -2,6 +2,11 @@
 
 All notable changes to the `phone_number_formatter` package will be documented in this file.
 
+## [1.0.1] - 2026-09-19
+
+- Optimized `pubspec.yaml` package description length for pub.dev Pana score.
+- Added explicit platform support and discoverability topics.
+
 ## [1.0.0] - 2026-09-19
 
 ### 🚀 Initial Release
