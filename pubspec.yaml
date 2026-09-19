@@ -9,6 +9,21 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
 
+topics:
+  - phone-number
+  - formatting
+  - validation
+  - country-code
+  - input-field
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
 dependencies:
   flutter:
     sdk: flutter
